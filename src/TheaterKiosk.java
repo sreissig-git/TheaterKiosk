@@ -6,7 +6,9 @@ import java.util.Scanner;
 //      input personAge
 //      if (personAge >= 21)
 //          output "Here is your paper wristband"
-
+//      endif
+//  return
+//EndClass
 public class TheaterKiosk {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
